@@ -9,3 +9,4 @@ DOM Selection Method
 	. querySelector()
 	. querySelectorAll()
 	
+document.getElementById() -> element
